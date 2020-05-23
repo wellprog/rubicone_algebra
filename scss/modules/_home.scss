@@ -207,7 +207,7 @@
 
 
 .food-card{
-  background: #fff8f7;
+  background: #7fbcff;
   padding: 20px 10px 20px 10px;
   margin-bottom: 20px;
   @include transition;
@@ -262,13 +262,13 @@
   }
 }
 .food-card:hover{
-  background: $white;
+  background: #7fbcff;
   box-shadow: 0px 10px 20px 0px rgba(8, 6, 89, 0.1); 
 
   .food-card-title{
 
     h3,h4{
-      background: $white;
+      background: #7fbcff;
     }
   }
 }
