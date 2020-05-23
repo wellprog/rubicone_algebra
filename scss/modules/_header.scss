@@ -59,14 +59,6 @@
       // }
       .nav-right{
         min-width: 200px;
-
-        a{
-          // text-transform: uppercase;
-          // font-family: $title-font;
-          // font-size: 15px;
-          // font-weight: 500;
-          // color: $primary-color;
-        }
       }
       .nav{
           .nav-item{
@@ -286,9 +278,6 @@ background: #ec9d5f;
     @include transition;
     &:last-child{
       margin-right: 0px;
-    }
-    &:hover{
-      // color: $baseColor;
     }
   }
 }
